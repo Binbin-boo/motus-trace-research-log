@@ -1,0 +1,10 @@
+path	purpose	change_type
+data/robotwin2/trace_preprocess.py	Trace/Qwen coordinate metadata and inverse geometry	modified
+scripts/precompute_trace_patch_maps.py	writes schema-2 cache record with transform metadata	modified
+tests/test_trace_preprocess.py	identity and 32px translation coordinate contract	modified
+tools/audit_temporal_data.py	read-only Motus/Qwen/Trace dataflow audit	added
+tools/review_trace_audit.py	manual review HTML generator	added
+tools/benchmark_traceanything_precompute.py	bounded live Trace speed/VRAM benchmark	added
+tests/test_audit_temporal_data.py	unit tests for audit utilities	added
+tests/test_review_trace_audit.py	unit tests for review utility	added
+tests/test_benchmark_traceanything.py	unit tests for benchmark wrapper	added
