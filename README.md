@@ -15,7 +15,7 @@ Motus policy training is attempted.
 
 | Day | Date | Question | Record |
 | --- | --- | --- | --- |
-| D1 | 2026-08-24 | Is the raw temporal-delta problem real, and is Trace coordinate transport auditable? | [D1 record](docs/day1/2026-08-24.md) |
+| D1 | 2026-08-24 | Is the raw temporal-delta problem real, and is Trace coordinate transport auditable? | [coordinate contract](docs/day1/2026-08-24.md); [entrypoint and preprocessing audit](docs/day1/2026-08-24-entrypoints-and-preprocessing.md) |
 
 ## Source workspace
 
